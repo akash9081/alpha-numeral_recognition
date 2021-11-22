@@ -25,7 +25,7 @@ might not look stellar like real world products, but still serves the purpose
 
 OBJECTIVE
 
-The objective of the work done by us can be summarised into following few points:
+The objective of the work done by us can be summarised as below:
 
 ● Building a recognition system for English alphabets and digits.
 
